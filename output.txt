@@ -1,0 +1,10 @@
+Result 1: робот
+Result 2: кукла
+Result 3: кукла
+Result 4: кукла
+Result 5: кукла
+Result 6: кукла
+Result 7: конструктор
+Result 8: робот
+Result 9: робот
+Result 10: кукла
